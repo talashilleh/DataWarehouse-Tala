@@ -1,5 +1,0 @@
-pandas
-sqlalchemy
-pymysql
-matplotlib
-jupyter
